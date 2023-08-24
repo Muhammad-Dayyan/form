@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+}
+.form{
+text-align: center;
+border: 1px solid black;
+margin-left: 250px;
+margin-right: 250px;
+padding: 80px;
+border-radius: 25px;
+background-image: radi;
+   box-shadow: 5px 10px #888888;;
+}
+body{
+  background-image:   linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+form>input{
+border-radius: 5px;
+}
